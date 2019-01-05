@@ -1,0 +1,10 @@
+sudo pip3 install flask
+sudo pip3 install pytrends
+sudo pip3 install pandas
+
+
+
+RUN SERVER:
+
+python3 flask_app
+
